@@ -68,17 +68,24 @@ hr{
 }
 
 .plan-list{
-    border: 1px solid black;
     margin: 20px 10px 20px;
     padding: 40px 20px;
     text-align: left;   
 }
-
+#plan-one{
+    background-color: #ddebec;
+}
+#plan-two{
+    background-color: #f8e7e7;
+}
+#plan-three{
+    background-color: #e0e4d8;
+}
 .email-subs{
     margin: 50px 150px 150px;
-    padding-bottom: 50px;
-    border: 1px solid black;
-    padding: ;
+    padding-top: 10px;
+    padding-bottom: 45px;
+    background-color: #FFF4D6;
 }
 input[type=email]{
     padding: 13px;
