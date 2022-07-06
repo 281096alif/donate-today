@@ -34,7 +34,7 @@ body {
     box-shadow: inset -0px -60px 60px black;
 }
 .mid-section{
-    padding: 5%;
+    padding: 6% 9% 0%;
     text-align: center;
 }
 .link-button{
@@ -64,4 +64,12 @@ input[type=number]{
 }
 hr{
     width: 760px;
+    color: #DADADA;
+}
+
+.plan-list{
+    border: 1px solid black;
+    margin: 20px 10px 20px;
+    padding: 40px 20px;
+    text-align: left;   
 }
