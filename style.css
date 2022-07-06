@@ -10,6 +10,9 @@ body {
 .white-color{
     color: white;
 }
+.flex-container {
+    display: flex;
+}
 .top-text{
     font-size: 45px;
     line-height: 60%;
@@ -41,4 +44,18 @@ body {
     color: white;
     padding: 10px 15px 15px;
     border-radius: 5px;
+}
+.all-cash{
+    margin-top: 60px;
+    align-items: center;
+    justify-content: center;
+}
+.cash-list{
+    background-color: #FAFAFA;
+    margin: 10px;
+    width: 135px;
+    padding-top: 30PX;
+    padding-bottom: 30PX;
+}
+.input-taka{]
 }
