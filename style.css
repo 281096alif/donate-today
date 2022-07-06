@@ -119,3 +119,8 @@ button{
 .colored-text{
     color: #FF5959;
 }
+#reg-text{
+    background-color: rgb(209, 209, 225);
+    text-align: justify;
+    padding: 40px;
+}
