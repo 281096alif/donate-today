@@ -57,5 +57,11 @@ body {
     padding-top: 30PX;
     padding-bottom: 30PX;
 }
-.input-taka{]
+input[type=number]{
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+hr{
+    width: 760px;
 }
