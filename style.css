@@ -14,8 +14,12 @@ body {
     font-size: 45px;
     line-height: 60%;
 }
+.title-text{
+    font-size: 45px;
+    font-weight: 700;
+}
 .mid-text{
-    font-size: x-large;
+    font-size: 18px;
     line-height: 60%;
 }
 .top-section{
@@ -24,7 +28,11 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     padding: 12%;
-    background-attachment: fixed;
+    box-shadow: inset -0px -60px 60px black;
+}
+.mid-section{
+    padding: 5%;
+    text-align: center;
 }
 .link-button{
     margin-top: 15px;
