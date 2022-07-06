@@ -92,6 +92,9 @@ input[type=email]{
     border: 1px solid black;
     margin-top: 35px;
     margin-bottom: 0px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    background-color: #D9D9D9;
 }
 footer{
     color: azure;
@@ -99,4 +102,20 @@ footer{
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: black;
+}
+button{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 12px 15px 12px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-bottom: 2px;
+}
+#selected-cash{
+    border: 2px solid red;
+    background-color: #FFEEEE;
+}
+.colored-text{
+    color: #FF5959;
 }
