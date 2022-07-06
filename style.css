@@ -73,3 +73,16 @@ hr{
     padding: 40px 20px;
     text-align: left;   
 }
+
+.email-subs{
+    margin: 50px 150px;
+    padding-bottom: 50px;
+    border: 1px solid black;
+    padding: ;
+}
+input[type=email]{
+    padding: 13px;
+    border: 1px solid black;
+    margin-top: 35px;
+    margin-bottom: 0px;
+}
